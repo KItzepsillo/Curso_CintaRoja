@@ -22,6 +22,8 @@ Github
     -git commit -m "valor del commit"           -> Porque se estan haciendo los cambios 
     -git status                                 -> verificar si ya se hicieron cambiosori
 
+    -git remote -v                          -> ver los repositorios compartidos
+    -git remote -rm "nombre"                    -> eliminar
     
 
     Agregarlo a Github
