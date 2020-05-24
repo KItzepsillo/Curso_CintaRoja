@@ -23,7 +23,7 @@ Github
     -git status                                 -> verificar si ya se hicieron cambiosori
 
     -git remote -v                          -> ver los repositorios compartidos
-    -git remote -rm "nombre"                    -> eliminar
+    -git remote -rm "no gimbre"                    -> eliminar
     
 
     Agregarlo a Github
